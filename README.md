@@ -9,7 +9,7 @@
 
 项目已内置 Matter.js 运行文件，不需要在微信开发者工具中构建 npm。`package.json` 仅用于记录上游依赖版本。
 
-`project.config.json` 里已填入 AppID `touristappid`，正式发布前请确认换成自己的小游戏 AppID。
+`project.config.json` 里的 `appid` 现为占位值 `touristappid`，正式发布前请换成自己的小游戏 AppID。
 
 `packOptions.ignore` 已排除 `pages`、`libs`、`node_modules` 等非运行目录，不要把它们加回打包范围。
 

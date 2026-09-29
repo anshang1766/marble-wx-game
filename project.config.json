@@ -4,6 +4,8 @@
     "ignore": [
       { "type": "folder", "value": "pages" },
       { "type": "folder", "value": "libs" },
+      { "type": "folder", "value": "node_modules" },
+      { "type": "file", "value": "PROJECT_NOTES.md" },
       { "type": "file", "value": "package.json" },
       { "type": "file", "value": "package-lock.json" },
       { "type": "file", "value": "README.md" }
